@@ -1,2 +1,3 @@
 # hello-world
-my first repositru
+my first repositry
+my name is ashish
